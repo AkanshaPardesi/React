@@ -17,6 +17,7 @@ function App() {
         </a>
       </header>
       <p>Hello all this is my experiment to test multiple commits</p>
+      <p>I hope I will be able to learn this rebase of commits</p>
     </div>
   );
 }
