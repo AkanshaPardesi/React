@@ -6,9 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
+      
         <a
           className="App-link"
           href="https://reactjs.org"
@@ -19,6 +17,7 @@ function App() {
         </a>
       </header>
       <p>Hello all this is my experiment to test multiple commits</p>
+      <p>I hope I will be able to learn this rebase of commits</p>
     </div>
   );
 }
